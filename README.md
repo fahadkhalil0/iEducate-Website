@@ -13,7 +13,6 @@
 
 ## HTML5 & CSS3: For structured and styled content.
 ## JavaScript: For interactive features and dynamic content.
-## Bootstrap: For responsive layout and styling.
 ## Git & GitHub: For version control and project management.
 
 ## Author - Fahad Khalil
